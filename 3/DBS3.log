@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.3.16)  17 MAR 2016 10:51
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.3.16)  17 MAR 2016 11:51
 entering extended mode
 **"DBS3.tex"
 (DBS3.tex
@@ -964,132 +964,115 @@ lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps1
 . and font adjustment code:
 . 
 .................................................
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count195
-\Gm@cntv=\count196
-\c@Gm@tempcnt=\count197
-\Gm@bindingoffset=\dimen161
-\Gm@wd@mp=\dimen162
-\Gm@odd@mp=\dimen163
-\Gm@even@mp=\dimen164
-\Gm@layoutwidth=\dimen165
-\Gm@layoutheight=\dimen166
-\Gm@layouthoffset=\dimen167
-\Gm@layoutvoffset=\dimen168
-\Gm@dimlist=\toks38
-
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
-
-! LaTeX Error: Option clash for package geometry.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 
-     
-The package geometry has already been loaded with options:
-  [paperwidth=210mm,paperheight=297mm]
-There has now been an attempt to load it with options
-  [top=2.5cm,right=3.5cm,bottom=2.5cm,left=2.5cm]
-Adding the global options:
-  paperwidth=210mm,paperheight=297mm,top=2.5cm,right=3.5cm,bottom=2.5cm,left=2.
-5cm
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
-
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
-* Language 'Parsi' not available for font 'B Lotus' with script 'Parsi'.
+* Language 'Parsi' not available for font 'B Koodak' with script 'Parsi'.
 * 'Default' language used instead.
 *************************************************
-\g__fontspec_family_BLotus_int=\count198
+\g__fontspec_family_BKoodak_int=\count195
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font B Lotus/I (it probably doesn't exist).
+. Could not resolve font B Koodak/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/I (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'BLotus(0)' created for font 'B Lotus' with options
-. [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.81].
+. Font family 'BKoodak(0)' created for font 'B Koodak' with options
+. [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.3].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->s*[1.81]"B Lotus/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. <->s*[1.3]"B Koodak/OT:script=arab;language=DFLT;mapping=parsidigits;"
 . 
 . * 'small caps' with NFSS spec.:
 . 
 . and font adjustment code:
 . 
-. 
-. * 'bold' with NFSS spec.:
-. <->s*[1.81]"B Lotus/B/OT:script=arab;language=DFLT;mapping=parsidigits;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. 
-. and font adjustment code:
-. 
-. 
-. * 'bold italic' with NFSS spec.:
-. <->s*[1.81]"B Lotus/BI/OT:script=arab;language=DFLT;mapping=parsidigits;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. 
-. and font adjustment code:
-. 
 .................................................
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
-* Language 'Parsi' not available for font 'B Lotus' with script 'Parsi'.
+* Language 'Parsi' not available for font 'B Koodak' with script 'Parsi'.
 * 'Default' language used instead.
 *************************************************
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font B Lotus/I (it probably doesn't exist).
+. Could not resolve font B Koodak/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/I (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'BLotus(1)' created for font 'B Lotus' with options
-. [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.54].
+. Font family 'BKoodak(1)' created for font 'B Koodak' with options
+. [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.2].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->s*[1.54]"B Lotus/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. <->s*[1.2]"B Koodak/OT:script=arab;language=DFLT;mapping=parsidigits;"
 . 
 . * 'small caps' with NFSS spec.:
 . 
 . and font adjustment code:
 . 
+.................................................
+*************************************************
+* fontspec warning: "language-not-exist"
+* 
+* Language 'Parsi' not available for font 'B Koodak' with script 'Parsi'.
+* 'Default' language used instead.
+*************************************************
+.................................................
+. fontspec info: "no-font-shape"
 . 
-. * 'bold' with NFSS spec.:
-. <->s*[1.54]"B Lotus/B/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. Could not resolve font B Koodak/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
 . 
-. * 'bold small caps' with NFSS spec.:
+. Could not resolve font B Koodak/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
 . 
-. and font adjustment code:
+. Could not resolve font B Koodak/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
 . 
+. Font family 'BKoodak(2)' created for font 'B Koodak' with options
+. [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.1].
 . 
-. * 'bold italic' with NFSS spec.:
-. <->s*[1.54]"B Lotus/BI/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. This font family consists of the following shapes:
 . 
-. * 'bold small caps' with NFSS spec.:
+. * 'normal' with NFSS spec.:
+. <->s*[1.1]"B Koodak/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. 
+. * 'small caps' with NFSS spec.:
 . 
 . and font adjustment code:
 . 
@@ -1097,63 +1080,82 @@ Try typing  <return>  to proceed.
 *************************************************
 * fontspec warning: "language-not-exist"
 * 
-* Language 'Parsi' not available for font 'B Lotus' with script 'Parsi'.
+* Language 'Parsi' not available for font 'B Koodak' with script 'Parsi'.
 * 'Default' language used instead.
 *************************************************
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font B Lotus/I (it probably doesn't exist).
+. Could not resolve font B Koodak/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/I (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'BLotus(2)' created for font 'B Lotus' with options
+. Font family 'BKoodak(3)' created for font 'B Koodak' with options
+. [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.0].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->s*[1.0]"B Koodak/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. 
+. * 'small caps' with NFSS spec.:
+. 
+. and font adjustment code:
+. 
+.................................................
+*************************************************
+* fontspec warning: "language-not-exist"
+* 
+* Language 'Parsi' not available for font 'B Koodak' with script 'Parsi'.
+* 'Default' language used instead.
+*************************************************
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font B Koodak/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'BKoodak(4)' created for font 'B Koodak' with options
 . [Script=Parsi,Language=Parsi,Mapping=parsidigits,Scale=1.18].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. <->s*[1.18]"B Lotus/OT:script=arab;language=DFLT;mapping=parsidigits;"
+. <->s*[1.18]"B Koodak/OT:script=arab;language=DFLT;mapping=parsidigits;"
 . 
 . * 'small caps' with NFSS spec.:
 . 
 . and font adjustment code:
 . 
-. 
-. * 'bold' with NFSS spec.:
-. <->s*[1.18]"B Lotus/B/OT:script=arab;language=DFLT;mapping=parsidigits;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. 
-. and font adjustment code:
-. 
-. 
-. * 'bold italic' with NFSS spec.:
-. <->s*[1.18]"B Lotus/BI/OT:script=arab;language=DFLT;mapping=parsidigits;"
-. 
-. * 'bold small caps' with NFSS spec.:
-. 
-. and font adjustment code:
-. 
 .................................................
-*************************************************
-* fontspec warning: "language-not-exist"
-* 
-* Language 'Parsi' not available for font 'B Lotus' with script 'Parsi'.
-* 'Default' language used instead.
-*************************************************
-*************************************************
-* fontspec warning: "language-not-exist"
-* 
-* Language 'Parsi' not available for font 'B Lotus' with script 'Parsi'.
-* 'Default' language used instead.
-*************************************************
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
-(Font)              scaled to size 11.79993pt on input line 52.
-\g__fontspec_family_TimesNewRoman_int=\count199
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
-(Font)              scaled to size 14.15991pt on input line 53.
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/m/n' will be
+(Font)              scaled to size 11.79993pt on input line 51.
+\g__fontspec_family_TimesNewRoman_int=\count196
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/m/n' will be
+(Font)              scaled to size 14.15991pt on input line 52.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1244,8 +1246,8 @@ LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
 . and font adjustment code:
 . 
 .................................................
-LaTeX Info: Redefining \latinfont on input line 55.
-\g__fontspec_family_PGaramond_int=\count266
+LaTeX Info: Redefining \latinfont on input line 54.
+\g__fontspec_family_PGaramond_int=\count197
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1287,89 +1289,42 @@ LaTeX Info: Redefining \latinfont on input line 55.
 . 
 .................................................
 Package xepersian-mathsdigitspec Info: DefiningthedefaultPersianmathsdigitsfont
-as'PGaramond' on input line 56.
+as'PGaramond' on input line 55.
 \symOPERATORS=\mathgroup6
 \symnew@mathbf@font@digits=\mathgroup7
 \symnew@mathit@font@digits=\mathgroup8
 \symnew@mathrm@font@digits=\mathgroup9
-(DBS3.aux)
+(DBS3.aux (toc.aux))
 \openout1 = `DBS3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 90.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 90.
- (C:\Users\SKings\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 89.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 89.
+
+(C:\Users\SKings\AppData\Roaming\MiKTeX\2.9\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    ... okay on input line 89.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box46
 
-! Package bidi Error: Oops! you have loaded package geometry after bidi package
-. Please load package geometry before bidi package, and then try to run xelatex
- on your document again.
-
-See the bidi package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 \begin{document}
-                     
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
-* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=418.25368pt
-* \textheight=591.5302pt
-* \oddsidemargin=17.3571pt
-* \evensidemargin=17.3571pt
-* \topmargin=-7.86334pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=35.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 ! Undefined control sequence.
-l.92 \Persian
+l.91 \Persian
              
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1377,54 +1332,49 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
-(Font)              scaled to size 24.47305pt on input line 93.
-LaTeX Font Info:    Font shape `EU1/BLotus(0)/m/n' will be
-(Font)              scaled to size 37.53935pt on input line 93.
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 93.
-LaTeX Font Info:    Try loading font information for U+msa on input line 93.
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/m/n' will be
+(Font)              scaled to size 24.47305pt on input line 92.
+LaTeX Font Info:    Font shape `EU1/BKoodak(0)/m/n' will be
+(Font)              scaled to size 26.96207pt on input line 92.
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/m/n' will be
+(Font)              scaled to size 16.99188pt on input line 92.
+LaTeX Font Info:    Try loading font information for U+msa on input line 92.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+LaTeX Font Info:    Try loading font information for U+msb on input line 92.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 93.
+(Font)              scaled to size 17.27994pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 93.
+(Font)              scaled to size 11.99997pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 93.
+(Font)              scaled to size 8.39998pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 17.27994pt on input line 93.
+(Font)              scaled to size 17.27994pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 11.99997pt on input line 93.
+(Font)              scaled to size 11.99997pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 8.39998pt on input line 93.
+(Font)              scaled to size 8.39998pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
-(Font)              scaled to size 17.27994pt on input line 93.
+(Font)              scaled to size 17.27994pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
-(Font)              scaled to size 11.99997pt on input line 93.
+(Font)              scaled to size 11.99997pt on input line 92.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
-(Font)              scaled to size 8.39998pt on input line 93.
+(Font)              scaled to size 8.39998pt on input line 92.
  [1
 
 ]
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
-(Font)              scaled to size 29.35822pt on input line 95.
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
-(Font)              scaled to size 29.35822pt on input line 95.
- (DBS3.toc)
-\tf@toc=\write3
-\openout3 = `DBS3.toc'.
+\openout2 = `toc.aux'.
 
+ (toc.tex
 
-[1
+LaTeX Font Warning: Font shape `EU1/BKoodak(4)/bx/n' undefined
+(Font)              using `EU1/BKoodak(4)/m/n' instead on input line 1.
 
-] (DBS3.lof
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
 (Font)              scaled to size 14.39996pt on input line 2.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
@@ -1443,11 +1393,19 @@ LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
 (Font)              scaled to size 9.59998pt on input line 2.
 LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
 (Font)              scaled to size 7.19998pt on input line 2.
-)
-\tf@lof=\write4
-\openout4 = `DBS3.lof'.
+) [1
+
+]
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/m/n' will be
+(Font)              scaled to size 29.35822pt on input line 96.
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/bx/n' will be
+(Font)              scaled to size 29.35822pt on input line 96.
+ (DBS3.lof)
+\tf@lof=\write3
+\openout3 = `DBS3.lof'.
 
  [2
+
 
 ]
 ! Undefined control sequence.
@@ -1459,78 +1417,39 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Font shape `EU1/BLotus(1)/bx/n' will be
-(Font)              scaled to size 38.31503pt on input line 103.
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
+
+LaTeX Font Warning: Font shape `EU1/BKoodak(1)/bx/n' undefined
+(Font)              using `EU1/BKoodak(1)/m/n' instead on input line 102.
+
+LaTeX Font Info:    Font shape `EU1/BKoodak(1)/m/n' will be
+(Font)              scaled to size 29.85593pt on input line 102.
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/m/n' will be
 (Font)              scaled to size 20.39026pt on input line 104.
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/bx/n' will be
 (Font)              scaled to size 20.39026pt on input line 104.
-! Undefined control sequence.
-<argument> \BLotussubsection 
-                             {تزشیدررسیر}
-l.104 ...{\BLotussubsection{تزشیدررسیر}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
-(Font)              scaled to size 11.79993pt on input line 108.
-! Undefined control sequence.
-l.109 \floating
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+LaTeX Font Warning: Font shape `EU1/BKoodak(2)/bx/n' undefined
+(Font)              using `EU1/BKoodak(2)/m/n' instead on input line 104.
 
-
-LaTeX Warning: File `Damavandr.jpg' not found on input line 110.
-
-! Unable to load picture or PDF file 'Damavandr.jpg'.
-<to be read again> 
-                   }
-l.110 ...ics[height=0.3\textheight]{Damavandr.jpg}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
-
-
-! Package graphics Error: Division by 0.
-
-See the graphics package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...ics[height=0.3\textheight]{Damavandr.jpg}
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+LaTeX Font Info:    Font shape `EU1/BKoodak(2)/m/n' will be
+(Font)              scaled to size 19.0081pt on input line 104.
+LaTeX Font Info:    Font shape `EU1/BKoodak(4)/bx/n' will be
+(Font)              scaled to size 11.79993pt on input line 107.
 File: Damavandr.jpg Graphic file (type QTm)
-<use  "Damavandr.jpg" >
-! Unable to load picture or PDF file 'Damavandr.jpg'.
-<to be read again> 
-                   \GXT@clipend 
-l.110 ...ics[height=0.3\textheight]{Damavandr.jpg}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
+<use  "Damavandr.jpg" > [3
 
-[3
+] (DBS3.aux (toc.aux))
 
-] [4] (DBS3.aux) ) 
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 20153 strings out of 428721
- 391524 string characters out of 3164046
- 446401 words of memory out of 3000000
- 23202 multiletter control sequences out of 15000+200000
- 11316 words of font info for 97 fonts, out of 3000000 for 9000
+ 19662 strings out of 428721
+ 384238 string characters out of 3164046
+ 431625 words of memory out of 3000000
+ 22722 multiletter control sequences out of 15000+200000
+ 11292 words of font info for 94 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
- 60i,8n,77p,10449b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,8n,77p,10449b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on DBS3.pdf (5 pages).
+Output written on DBS3.pdf (4 pages).

@@ -20,10 +20,10 @@
 \usepackage[Kashida]{xepersian}
 
 % این دستور به منظور تنظیم اندازهصفحه قرار داده شده است
-\usepackage[paperwidth=210mm,paperheight=297mm]{geometry} %setting the page size
+%\usepackage[paperwidth=210mm,paperheight=297mm]{geometry} %setting the page size
 
 % setting the margins of page
-\usepackage[top=2.5cm,right=3.5cm,bottom=2.5cm,left=2.5cm]{geometry}
+%\usepackage[top=2cm,right=2.5cm,bottom=2.5cm,left=2cm]{geometry}
 
 
 % tell tex engine address of folder containing your pictures
@@ -42,14 +42,13 @@
 
 
 % تغییر و ساخت فونت های مناسب
-\defpersianfont\BLotuspart[Scale=1.81]{B Lotus} % B Lotus 20
-\defpersianfont\BLotuschapter[Scale=1.54]{B Lotus} %B Lotus 17
-\defpersianfont\BLotussection[Scale=1.18]{B Lotus} % B Lotus 13
-\defpersianfont\BLotus[Scale=1.18]{B Lotus} %B Lotus 13
+\defpersianfont\BKoodakpart[Scale=1.3]{B Koodak} 
+\defpersianfont\BKoodakchapter[Scale=1.2]{B Koodak} 
+\defpersianfont\BKoodaksection[Scale=1.1]{B Koodak} 
+\defpersianfont\BKoodak[Scale=1.0]{B Koodak} 
 
 
-% تغییر به فونت لوتوس سیاه و اندازه ی  13
-\settextfont[Scale=1.18]{B Lotus} % B Lotus 13
+\settextfont[Scale=1.18]{B Koodak}
 \setsansfont[Scale=1.0]{Times New Roman}
 % تغییر به فونت  11
 \setlatintextfont[Scale=1.0]{Times New Roman}
@@ -81,7 +80,7 @@
 \setcounter{tocdepth}{2}
 
 %تغییر فونت  part ها به لوتوس ساه زده شده است 
-\title{\BLotuspart {گزارش جلسه سوم آزمایشگاه پایگاه داده}}%change font to b lotus 20 as defined before
+\title{\BKoodakpart {گزارش جلسه سوم آزمایشگاه پایگاه داده}}%change font to b Koodak 20 as defined before
 \author{سامان فکری 9231075
 			\and سجاد اعظمی 9231000}
 
@@ -92,23 +91,24 @@
 \Persian
 \maketitle
 
-\tableofcontents
+%\tableofcontents
+\include{toc}
 \listoffigures
 \newpage
 %\listoftables
 
-\Persian
+\Persian 
 
+\chapter*{\title\BKoodakchapter{سوال 1}}%change font to b Koodak 13 as defined before
 
-\chapter*{\title\BLotuschapter{سوال 1}}%change font to b lotus 13 as defined before
-\section*{\BLotussubsection{تزشیدررسیر}}
-سزشرشیرشیرشیرشیریش
+\section*{\BKoodaksection{الف)}}
 
-\begin{figure}
+\begin{figure}[h!]
 \caption{دماوند}
-\floating
-\includegraphics[height=0.3\textheight]{Damavandr.jpg}
+\centering
+\includegraphics[width=.8\textwidth]{Damavandr.jpg}
 \end{figure}
+\newpage
 
 \end{document}
 
