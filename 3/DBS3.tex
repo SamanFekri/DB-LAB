@@ -43,8 +43,8 @@
 
 % تغییر و ساخت فونت های مناسب
 \defpersianfont\BLotuspart[Scale=1.81]{B Lotus} % B Lotus 20
-\defpersianfont\BLotussection[Scale=1.54]{B Lotus} %B Lotus 17
-\defpersianfont\BLotussubsection[Scale=1.18]{B Lotus} % B Lotus 13
+\defpersianfont\BLotuschapter[Scale=1.54]{B Lotus} %B Lotus 17
+\defpersianfont\BLotussection[Scale=1.18]{B Lotus} % B Lotus 13
 \defpersianfont\BLotus[Scale=1.18]{B Lotus} %B Lotus 13
 
 
@@ -97,51 +97,18 @@
 \newpage
 %\listoftables
 
-%\part{\BLotuspart{سوال 1}}%change font to b lotus 20 as defined before
-
-%\chapter{\BLotuschapter{آشنایی با زی پرشین}}%change font to b lotus 17 as defined before
-
-
-%زی‌پرشین نرم‌افزار مستقلی نیست، بلکه تنها مجموعه‌ای از ماکروها است که موتور حروف‌چینی زی‌تک با آن می‌تواند نوشته‌های فارسی را با کیفیت بسیار بالا پردازش کند.%\cite{Vapnik_1998}.
-
-%برای نصب زی‌پرشین نخست باید یک توزیع تِک را روی رایانهٔ خود نصب کنید. منظور از یک توزیع تِک، مجموعه ای از موتورهای حروف‌چینی تک، ماکروها، قلم‌ها و ابزارهای کمکی است. معروف‌ترین توزیع‌های تک در ویندوز میک‌تک و در لینوکس تک‌لایو هستند.
-
-%Look what happens if you put Latin text in a Persian text area.
-
-%\Latin
-%And now, this is a Latin text in a Latin text area.
-
-
-%\newpage
 \Persian
-%\chapter{\BLotuschapter{شکل ها و جداول در زی پرشین}}%change font to b lotus 17 as defined before
-%در این بخش نحوه درج جداول و شکل ها در مستندات فارسی توضیح داده میشود.
 
 
-
-
-\section{\BLotussection{سوال 1}}%change font to b lotus 13 as defined before
-\subsection*{\BLotussubsection{تزشیدررسیر}}
+\chapter*{\title\BLotuschapter{سوال 1}}%change font to b lotus 13 as defined before
+\section*{\BLotussubsection{تزشیدررسیر}}
 سزشرشیرشیرشیرشیریش
 
 \begin{figure}
 \caption{دماوند}
-\centering
+\floating
 \includegraphics[height=0.3\textheight]{Damavandr.jpg}
 \end{figure}
-
-
-
-%\Latin
-%\bibliography{PhdThesis}
-%\begin{thebibliography}{10}
-
-%\bibitem{Vapnik_1998}
-%V.~Vapnik.
-%\newblock {\em Statistical Learning Theory}.
-%\newblock John Wiley \& Sons, 1998.
-
-%\end{thebibliography}
 
 \end{document}
 

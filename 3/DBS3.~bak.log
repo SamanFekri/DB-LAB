@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.3.16)  17 MAR 2016 10:36
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.3.16)  17 MAR 2016 10:50
 entering extended mode
 **"DBS3.tex"
 (DBS3.tex
@@ -1417,41 +1417,41 @@ LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
 (Font)              scaled to size 29.35822pt on input line 95.
 LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
 (Font)              scaled to size 29.35822pt on input line 95.
- (DBS3.toc
-LaTeX Font Info:    Font shape `EU1/BLotus(1)/m/n' will be
-(Font)              scaled to size 18.47992pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 14.39996pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 9.59998pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
-(Font)              scaled to size 7.19998pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
-(Font)              scaled to size 14.39996pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 1.
-)
+ (DBS3.toc)
 \tf@toc=\write3
 \openout3 = `DBS3.toc'.
 
 
 [1
 
-] (DBS3.lof)
+] (DBS3.lof
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
+(Font)              scaled to size 14.39996pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
+(Font)              scaled to size 14.39996pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
+(Font)              scaled to size 9.59998pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/bx/n' will be
+(Font)              scaled to size 7.19998pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
+(Font)              scaled to size 14.39996pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
+(Font)              scaled to size 9.59998pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/PGaramond(0)/m/it' will be
+(Font)              scaled to size 7.19998pt on input line 2.
+)
 \tf@lof=\write4
 \openout4 = `DBS3.lof'.
 
+ [2
 
+]
 ! Undefined control sequence.
-l.115 \Persian
+l.100 \Persian
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1459,23 +1459,32 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
-(Font)              scaled to size 20.39026pt on input line 122.
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
-(Font)              scaled to size 20.39026pt on input line 122.
 LaTeX Font Info:    Font shape `EU1/BLotus(1)/bx/n' will be
-(Font)              scaled to size 26.61107pt on input line 122.
+(Font)              scaled to size 38.31503pt on input line 103.
+LaTeX Font Info:    Font shape `EU1/BLotus(2)/m/n' will be
+(Font)              scaled to size 20.39026pt on input line 104.
 LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
-(Font)              scaled to size 16.99188pt on input line 123.
-LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
-(Font)              scaled to size 11.79993pt on input line 127.
+(Font)              scaled to size 20.39026pt on input line 104.
+! Undefined control sequence.
+<argument> \BLotussubsection 
+                             {تزشیدررسیر}
+l.104 ...{\BLotussubsection{تزشیدررسیر}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Warning: File `Damavandr.jpg' not found on input line 129.
+LaTeX Font Info:    Font shape `EU1/BLotus(2)/bx/n' will be
+(Font)              scaled to size 11.79993pt on input line 108.
+
+LaTeX Warning: File `Damavandr.jpg' not found on input line 110.
 
 ! Unable to load picture or PDF file 'Damavandr.jpg'.
 <to be read again> 
                    }
-l.129 ...ics[height=0.3\textheight]{Damavandr.jpg}
+l.110 ...ics[height=0.3\textheight]{Damavandr.jpg}
                                                   
 The requested image couldn't be read because
 it was not a recognized image format.
@@ -1487,7 +1496,7 @@ See the graphics package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.129 ...ics[height=0.3\textheight]{Damavandr.jpg}
+l.110 ...ics[height=0.3\textheight]{Damavandr.jpg}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1498,21 +1507,21 @@ File: Damavandr.jpg Graphic file (type QTm)
 ! Unable to load picture or PDF file 'Damavandr.jpg'.
 <to be read again> 
                    \GXT@clipend 
-l.129 ...ics[height=0.3\textheight]{Damavandr.jpg}
+l.110 ...ics[height=0.3\textheight]{Damavandr.jpg}
                                                   
 The requested image couldn't be read because
 it was not a recognized image format.
 
-[2
+[3
 
-] [3] (DBS3.aux) ) 
+] [4] (DBS3.aux) ) 
 Here is how much of TeX's memory you used:
- 20157 strings out of 428721
- 391692 string characters out of 3164046
+ 20153 strings out of 428721
+ 391524 string characters out of 3164046
  446401 words of memory out of 3000000
- 23204 multiletter control sequences out of 15000+200000
- 11332 words of font info for 99 fonts, out of 3000000 for 9000
+ 23202 multiletter control sequences out of 15000+200000
+ 11316 words of font info for 97 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
  60i,8n,77p,10449b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on DBS3.pdf (4 pages).
+Output written on DBS3.pdf (5 pages).
